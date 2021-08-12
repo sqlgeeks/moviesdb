@@ -1,0 +1,18 @@
+The design of this demo website was taken into consideration from the original website.
+
+1. Some improvements on SEO end -
+
+- Add some links to external reviews, pages, blogs or content etc.
+- Will allow users to share things over social media.
+
+2. Other features that can be improved/added.
+
+- A feature to like, watch later or share the movies.
+- Add reviews and rate movies.
+- Categorize the entire grid into TV Shows, Movies, Series.
+- Add a carousel banner for upcoming or featured movies.
+- We can also add a count of the active users watching a particular movies/series.
+- On clicking (hovering) any movie we should display a new page (or a modal/dialog/popup) with additional details of the movie.
+- We can improve the footer section with some feedback option.
+- We can add percentage loader or stars or bars for ratings.
+
